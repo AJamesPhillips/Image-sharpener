@@ -1,0 +1,15 @@
+.project
+.pydevproject
+
+
+input images/*.bmp
+input images/*.jpeg
+input images/*.jpg
+input images/*.png
+input images/*.gif
+
+processed images/*.bmp
+processed images/*.jpeg
+processed images/*.jpg
+processed images/*.png
+processed images/*.gif
